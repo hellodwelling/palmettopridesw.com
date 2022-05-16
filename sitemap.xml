@@ -2,3 +2,89 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://palmettopridesw.com/index</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/store</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/reviews</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/gallery-All</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/gallery-Home-Softwash</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/gallery-Pressure-Washing</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Decks-&-Patios</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Roof-Cleaning</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Outdoor-Furniture</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Driveway-&-Sidewalk-Cleaning</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Home-Softwash</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://palmettopridesw.com/service-Fence-Washing</loc>
+        <lastmod>2022-05-16</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
